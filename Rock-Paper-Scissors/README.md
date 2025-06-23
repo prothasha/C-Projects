@@ -1,4 +1,4 @@
-## 🪨 Rock-Paper-Scissors Game in C
+## 🪨 Rock, 📄 Paper, ✂️ Scissors Game in C
 
 A simple terminal-based Rock-Paper-Scissors game written in C.  
 The player competes against the computer, and the first to win 3 rounds is declared the overall winner.
